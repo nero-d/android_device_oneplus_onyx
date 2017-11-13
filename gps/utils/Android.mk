@@ -60,6 +60,8 @@ LOCAL_COPY_HEADERS:= \
 LOCAL_MODULE := libgps.utils
 #LOCAL_CLANG := false
 
+LOCAL_MODULE_OWNER := qcom
+
 LOCAL_MODULE_TAGS := optional
 
 LOCAL_PRELINK_MODULE := false
